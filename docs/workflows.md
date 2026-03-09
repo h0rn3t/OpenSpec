@@ -35,8 +35,8 @@ OPSX (fluid actions):
 Нові інсталяції за замовчуванням `core`, що забезпечує:
 - `/opsx:propose`
 - `/opsx:explore`
-- `/opsx: застосувати`
-- `/opsx:архів`
+- `/opsx:apply`
+- `/opsx:archive`
 
 Типовий потік:
 
